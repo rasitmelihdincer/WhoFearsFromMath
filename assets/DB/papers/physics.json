@@ -1,0 +1,1303 @@
+{
+    "id": "ppr001",
+    "title": "Physics",
+    "image_url": "",
+    "Description": "Basic physics Multiple Choice Questions (MCQ) to practice basic physics quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "Multiply 44,55 by 100?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "4455"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4,455"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "0,4455"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "44,55"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "How do you say 1.5?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Fifteen"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Quarter"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "One and half"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "≠ stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Equals"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Great"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Is not equal to."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Null set."
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "What does the scanned area represent?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "8 in 15"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "1 in 4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "2 in 3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "7 in 20"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url": "assets/questionimages/dama.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many kilometers has anyone traveled who traveled 333 km between Prague and Vienna and 243 km between Vienna and Budapest?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "90"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "576"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "666"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "676"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Count the squares.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "64"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "72"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "24"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "81"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url": "assets/questionimages/squ.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "What is the sum of the figures?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "100"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "16"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "25"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "120"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url" :"assets/questionimages/image.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which one is more than the others?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Whole"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Quarter"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1/3 "
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which company has the least sell",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Lisbon"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Athens"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Madrid"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Bucharest"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url": "assets/questionimages/country.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many cm is 1 meter? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0,1"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "100"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "What is the result of 5²?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "25"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "36"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "What is the result of  √16 ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "16"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "20"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1,6"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "What is the fraction symbolized by the scanned area?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "half"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "four in twelve "
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "four in nine"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "two in three"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url": "assets/questionimages/scan2.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "0,25 equals to?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "7,5"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Quarter"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "67three in eight 6"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "The distance between Manchester and London is 335 km. How many hours does a car traveling at a speed of 67 km per hour complete its journey?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "5"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "2"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many calories does a person who burns 50 calories on a 1 km walk burn on an 8 km walk?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "50"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "58"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "450"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "400"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Do you have difficulties in spending money?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                }
+                
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which one is more than the others?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "25"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "25,2"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Quarter"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "18:2 =?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "9"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "2⁵ =?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "32"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "16"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "25"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "What does the scanned area represent?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Quarter"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "one in three"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "three in five"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url" : "assets/questionimages/daire.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which option has the same value as  1/2 ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Quarter"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Whole"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "one in three "
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Pontedera–Rome is 350 km. How many hours does a car traveling at a speed of 100 km per hour complete its journey?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3 hours"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3 hours and half"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3 hours 50 minutes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "35 minutes "
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many seconds does it take a healthy person’s run in 100 m?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "15 sec"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "300 sec"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "30 min"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "15 min"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Count the triangles?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "12"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "18"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "10"
+                }
+            ],
+            "correct_answer": "C",
+            "image_url": "assets/questionimages/triangles.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Do you have problems about money in shopping?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                } 
+                
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which square has the biggest scanned area?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "II"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "III"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "IV"
+                }
+            ],
+            "correct_answer": "C",
+            "image_url": "assets/questionimages/scannedarea.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "What is the measurement unit of the number in the figure.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Meter"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Amperemeter"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Kilometer"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Millimeter "
+                }
+            ],
+            "correct_answer": "C",
+            "image_url": "assets/questionimages/madridparis.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many meters is 15 kilometers?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "150"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "15000"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "1,5"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1500"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many kilometers is 3000 meters?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "30"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "300"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,3"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many months are there in a year?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "30"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "12"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "3³ equals to?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "9"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "27"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "0,250 equals to?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Whole"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Twenty-five"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Quarter "
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Berlin – Luxembourg is 700 km. How many hours does a car traveling at a speed of 100 km per hour complete its journey?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "8"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "7"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "5 "
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How long does it take for a healthy person to walk 2 miles? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2 hours"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3 weeks"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "40 minutes"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "5 days"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "0,250 equals to?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Whole"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Twenty-five"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Quarter "
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Do you have problems in time management?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                } 
+                
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which one is the smallest?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "0,23"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0,21"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "0,20"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,25 "
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Used for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Pressure"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Direction"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Length"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Weight"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url": "assets/questionimages/pusula.png"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many millimeters in a 1 cm?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0,1"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "100"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1000"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "1000⁰ = ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1000"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "10 "
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many minutes in an hour?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "30"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "60"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "90"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "120"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many meters in 1000mm?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "0,1"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "100"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which option is equal to 1,5?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "One and half"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Quarter"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "One"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "A car travels 440 km from the Netherlands to Germany. Then it travels 225 km to Belgium. What is the total distance it took?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "440km"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "225km"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "665km"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "800km"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Do you have problems in saving money?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Yes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "No"
+                } 
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which option is less?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "92%"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "03%"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "0,25"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Half"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many days are there in three weeks?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "7"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "21"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "12"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many hours in 120 minutes?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "√9=?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "9"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "4"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "64⁰ = ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "64"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "32"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "18"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many meters in 2 km?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "200"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "2000"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,2"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which option has the same value of 0,75?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Half"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Quarter"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "One in three"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Three in four"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "The distance between Madrid – Barcelona is 600 km. How many hours does a car traveling at a speed of 50 km per hour complete its journey?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "12"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "6"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "18"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How much water a healthy person drink per day?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3 liters"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "10 liters"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "20 liters"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "50 liters"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "How many minutes in 120 seconds?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "5² - 2² = ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "21"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "23"
+                }
+            ],
+            "correct_answer": "A"
+        }
+
+        
+    ]
+}

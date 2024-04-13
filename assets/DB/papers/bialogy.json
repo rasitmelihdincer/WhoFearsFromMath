@@ -1,0 +1,973 @@
+{
+    "id": "ppr001",
+    "title": "Physics",
+    "image_url": "",
+    "Description": "Basic physics Multiple Choice Questions (MCQ) to practice basic physics quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr004q001",
+            "question": "How many seconds can a healthy person hold his breath on average?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "100-120 minutes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2-5 hours"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "40-45 seconds"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "300-400 millimeters"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q002",
+            "question": "€ 8,50 - €2,50 = ?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "€6,00"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "€4,50"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "€7,50"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "€ 0 "
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q003",
+            "question": "“>” stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Equals"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Square root"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "more than or equal to"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "more"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q004",
+            "question": "“+” icon belongs to which operation? ",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Division"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Square root"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Addition"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Multiplication "
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Multiply 13,102 by 10",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "131,02"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "1,3102"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "1310,2"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,13102 "
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "“≤” stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Less"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "More"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Greater or equals to"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "less than or equal to"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many squares are there in the shape above?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "36"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "48"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "42"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "56"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url": "assets/questionimages/squ2.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "$13,17 - $8,15 =?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "$7,12"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "$12,3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "$5,02"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "$5.06"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What is the sum of the figures?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "60"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "70"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "120"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "90"
+                }
+            ],
+            "correct_answer": "D",
+            "image_url": "assets/questionimages/treetree.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many companies have sold more teddy bears than toy planes?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "C",
+            "image_url" :"assets/questionimages/teddy.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many meters is 1 hectometer?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "100"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "0,1"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,001 "
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many decimeters is 1 meter?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1000"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "10"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "0,1"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,001"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "ϕ stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Universal set"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Empty set "
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Zero Element"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Element  "
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Multiply 1,9856 by 100",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "198,56"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "19,856"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "1985,6"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1,9856"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "% stands for",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Square root"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "More"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Percentage"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Equals "
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What is the sum of the figures?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "8"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "13"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "40"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "30"
+                }
+            ],
+            "correct_answer": "C",
+            "image_url" : "assets/questionimages/oneone.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "€7,12 + €2,13 =?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "7,12"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2,13"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "9,25"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many companies have sold more pastrami than sausage?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "C",
+            "image_url" : "assets/questionimages/pastrami.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "{  } stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Universal set"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Empty set "
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Zero Element"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Element"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Multiply 0,2346 by 10.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "234,6"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0,02346"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "2,346"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,2346"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "“ – “ stands for??",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Addition"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Subtraction"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Multiplication"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Division"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What does the scanned area represent?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "three in twelve"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "one in sixteen"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "one in nine"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "fifteen in sixteen"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url": "assets/questionimages/scan3.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Count the stars.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "60"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "70"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "80"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "90"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url" :"assets/questionimages/stars.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What is the sum of the figures?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "240"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "180"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "120"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "100"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url": "assets/questionimages/sixt.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "€8 - €5,50 =?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "€2,5"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "€1,5"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "€13,5"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "€2"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "“= “stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Empty set"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Greater"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Equals"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Infinite"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many companies sold yoghurt most?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "D",
+            "image_url":"assets/questionimages/yogurt.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Divide 950 by 10.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "9,5"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "95"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "950"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,95"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "“÷” stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Addition"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Multiplication"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Division"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Subtraction"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How long a healthy person can his/her breath under water?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "24sec"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "1min"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "80sec"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "10 min"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many dots are there above?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "80"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "70"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "100"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "60"
+                }
+            ],
+            "correct_answer": "C",
+            "image_url":"assets/questionimages/doth.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "$11,47 - $7,33 =?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "$4,17"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "$4,2"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "$4,14"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "$5,14 "
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What is the total of the numbers above?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "20"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "50"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "60"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "80"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url" :"assets/questionimages/twotwo.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Multiply 21,718 by 1000.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2,1718"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2171,8"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "21718"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0,21718"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What does the scanned area represent?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Two in eight"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Four in fifteen"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "One in twenty"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Two in three"
+                }
+            ],
+            "correct_answer": "B",
+            "image_url" : "assets/questionimages/scan4.png"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "“<” stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "More"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Less"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Turn left"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Equal"
+                }
+            ],
+            "correct_answer": "B"
+             
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many squares?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "16"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "24"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "30"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "42"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url" : "assets/questionimages/squ3.png"
+             
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Which shape has a more scanned area than the other?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "II"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "None"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Equal"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url" : "assets/questionimages/scancircle.png"
+             
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What is the sum of the figures?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "90"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "30"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "3"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url" : "assets/questionimages/sixtsixt.png"
+             
+        },
+        {
+            "id": "ppr004q005",
+            "question": "How many firms sold more rucksacks than pencils?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "1"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "4",
+                    "Answer": "42"
+                }
+            ],
+            "correct_answer": "A",
+            "image_url" : "assets/questionimages/pencil.png"
+             
+        },
+        {
+            "id": "ppr004q005",
+            "question": "“ x “ stands for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Addition"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Subtraction"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Multiplication"
+                },
+                {
+                    "identifier": "4",
+                    "Answer": "Division "
+                }
+            ],
+            "correct_answer": "C"    
+        }
+    ]
+}
