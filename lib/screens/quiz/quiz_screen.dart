@@ -26,13 +26,13 @@ class QuizeScreen extends GetView<QuizController> {
     Future<List<Question>> loadAndCombineQuestions() async {
       // Her JSON dosyasından soruları ayrı ayrı yükleyin
       final physicsQuestions =
-          await loadQuizData('assets/DB/papers/physics.json')
+          await loadQuizData('assets/DB/papers/first_section.json')
               .then((value) => value.questions!);
       final biologyQuestions =
-          await loadQuizData('assets/DB/papers/bialogy.json')
+          await loadQuizData('assets/DB/papers/second_section.json')
               .then((value) => value.questions!);
       final chemistryQuestions =
-          await loadQuizData('assets/DB/papers/chemistry.json')
+          await loadQuizData('assets/DB/papers/third_Section.json')
               .then((value) => value.questions!);
 
       // Soru listelerini karıştırın
